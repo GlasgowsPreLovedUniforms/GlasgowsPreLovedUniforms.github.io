@@ -1,0 +1,73 @@
+.pageSection {
+    padding-top: 3vh;
+    min-height: 100vh;
+}
+
+.homePageSection {
+    height: 100%;
+    min-height: 100vh;
+}
+
+#home {
+    background-color: #A8D0E6;
+}
+
+#page1 {
+    background-color: #A8D0E6;
+}
+
+#page2 {
+
+    background-color: #F76C6C;
+}
+
+#page3 {
+
+}
+
+#page4 {
+    background-color: #F76C6C;
+
+}
+#recentUpdates {
+    background-color: #A8D0E6;
+}
+
+#page5 {
+
+    background-color: #ccc;
+}
+
+html {
+    background-color: #A8D0E6 !important;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #A8D0E6 !important;
+}
+
+.equal{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+.panel {
+    width: 100%;
+    height: 90%;
+}
+h1{
+    font-size: 55px !important;
+}
+.listItem{
+    padding: 10px;
+    font-size: 18px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.icon {
+    font-size: 8vh;
+}

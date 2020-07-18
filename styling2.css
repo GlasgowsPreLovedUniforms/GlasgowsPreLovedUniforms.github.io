@@ -1,0 +1,65 @@
+.pageSection {
+    height: 100%;
+    margin-bottom: 3vh;
+    min-height: 100vh;
+}
+
+.homePageSection {
+    height: 100%;
+    min-height: 100vh;
+}
+
+.carousel-control.left {
+    background-image: none !important;
+}
+
+.carousel-control.right {
+    background-image: none !important;
+}
+
+.carousel-control {
+    width: 3% !important;
+}
+
+.carousel-indicators li {
+    border: 1px solid #777777 !important;
+}
+
+.carousel-indicators .active {
+    background-color: black !important;
+}
+
+.icon {
+    font-size: 5vh;
+}
+
+#intro {
+    background-color: #F5F5F5;
+}
+
+#home {
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+html {
+    background-color: #F5F5F5 !important;
+    scroll-behavior: smooth;
+}
+
+.carousel-indicators {
+    bottom: 0px !important;
+}
+
+#intro {
+    background-color: #A8D0E6;
+}
+
+.titleInfo {
+    margin-top: 3rem;
+}
+body {
+}
+p{
+    font-size: 16px;
+}
