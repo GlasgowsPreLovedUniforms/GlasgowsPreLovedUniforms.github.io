@@ -9,11 +9,11 @@
 }
 
 #home {
-    background-color: #A8D0E6;
+    background-color: #9aa4aa;
 }
 
 #page1 {
-    background-color: #A8D0E6;
+    background-color: #9aa4aa;
 }
 
 #page2 {
@@ -30,7 +30,7 @@
 
 }
 #recentUpdates {
-    background-color: #A8D0E6;
+    background-color: #9aa4aa;
 }
 
 #page5 {
@@ -39,12 +39,12 @@
 }
 
 html {
-    background-color: #A8D0E6 !important;
+    background-color: #9aa4aa !important;
     scroll-behavior: smooth;
 }
 
 body {
-    background-color: #A8D0E6 !important;
+    background-color: #9aa4aa !important;
 }
 
 .equal{
